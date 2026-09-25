@@ -8,8 +8,8 @@ My personal resume website, built as a hands-on cloud engineering project.
 - Git/GitHub
 
 ## Current Progress
-  - [ ] Resume website
-  - [ ] AWS hosting
+  - [x] Resume website
+  - [x] AWS hosting
   - [ ] HTTPS/CDN
   - [ ] Serverless visitor counter
   - [ ] Infrastructure as Code
